@@ -1,0 +1,10 @@
+E:\Video Tutorials\VB.net\Source\VB 19\ConsApp function 19\bin\Debug\ConsApp function 19.exe
+E:\Video Tutorials\VB.net\Source\VB 19\ConsApp function 19\bin\Debug\ConsApp function 19.pdb
+E:\Video Tutorials\VB.net\Source\VB 19\ConsApp function 19\bin\Debug\ConsApp function 19.xml
+E:\Video Tutorials\VB.net\Source\VB 19\ConsApp function 19\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Video Tutorials\VB.net\Source\VB 19\ConsApp function 19\obj\x86\Debug\ConsoleApplication1.Resources.resources
+E:\Video Tutorials\VB.net\Source\VB 19\ConsApp function 19\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Video Tutorials\VB.net\Source\VB 19\ConsApp function 19\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Video Tutorials\VB.net\Source\VB 19\ConsApp function 19\obj\x86\Debug\ConsApp function 19.exe
+E:\Video Tutorials\VB.net\Source\VB 19\ConsApp function 19\obj\x86\Debug\ConsApp function 19.xml
+E:\Video Tutorials\VB.net\Source\VB 19\ConsApp function 19\obj\x86\Debug\ConsApp function 19.pdb
